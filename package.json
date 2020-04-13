@@ -1,9 +1,9 @@
 {
-    "name": "angular-7-role-based-authorization-example",
+    "name": "angular7-auth-login-jwt",
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/angular-7-role-based-authorization-example.git"
+        "url": "https://github.com/vishnuksharma/Angular7-Auth-Login-JWT.git"
     },
     "scripts": {
         "build": "webpack --mode production",
